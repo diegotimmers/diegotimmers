@@ -24,4 +24,4 @@
 
 ###
 
- ![Snake animation](https://github.com/diegotimmers/diegotimmers/blob/output/github-contribution-grid-snake.svg)
+
